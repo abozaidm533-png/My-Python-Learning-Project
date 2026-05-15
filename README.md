@@ -6,6 +6,9 @@ A collection of Python projects I built while learning programming.
 - mariam.py
 - task.py
 - test.py
+- calculator.py
+- grade_system.py
+- login_system.py
 
 ## Skills Used
 - Python
