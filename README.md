@@ -9,6 +9,7 @@ A collection of Python projects I built while learning programming.
 - calculator.py
 - grade_system.py
 - login_system.py
+- student_management
 
 ## Skills Used
 - Python
