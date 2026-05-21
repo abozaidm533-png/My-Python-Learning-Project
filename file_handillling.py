@@ -1,0 +1,21 @@
+file = open("student.text", "w")
+file.write("mariam - 95\n")
+file.write("sara - 90\n")
+file.write("laila - 85\n")
+file.close()
+print("file created successfully") 
+ 
+file = open("student.text", "r")
+content = file.read()
+file.close()
+print(content)
+
+file = open("student.text", "a")
+file.write("nour - 80\n")
+file.close()
+print("file updated successfully")
+
+file = open("student.text", "r")
+content = file.read()
+file.close()
+print(content)
